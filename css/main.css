@@ -1533,6 +1533,7 @@ input::-moz-focus-inner {
 
 .home-copyright a {
   color: rgba(255, 255, 255, 0.7);
+  font-family: "metropolis-regular", sans-serif;
 }
 
 .home-copyright span {
